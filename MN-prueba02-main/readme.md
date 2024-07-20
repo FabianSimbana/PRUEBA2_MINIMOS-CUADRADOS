@@ -1,1 +1,0 @@
-Código base para la prueba 02 de la clase de métodos numéricos.
